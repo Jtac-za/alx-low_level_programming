@@ -1,5 +1,6 @@
 #include <unistd.h>
 #include <sys/syscall.h>
+#include "main.h"
 
 int main(void)
 {
