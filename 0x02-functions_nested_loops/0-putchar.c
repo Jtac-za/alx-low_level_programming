@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	const char msg[] = "_putchar\n";
+	const char msg[] = "_putchar";
 
 	syscall(SYS_write, 1, msg, sizeof(msg));
 
