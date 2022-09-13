@@ -6,6 +6,7 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	const char msg[] = "_putchar\n";
